@@ -9,3 +9,7 @@ forks is when you want to make a copy of someone else's project. Clone to get it
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can work on it before making it public, so other people won't see it 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to save the document, and compare each other. Git and Github would be a lot easier to share files.
