@@ -5,3 +5,7 @@ You might pull it when you don't want to yet, or if you're in the middle of work
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 forks is when you want to make a copy of someone else's project. Clone to get it from github into local repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can work on it before making it public, so other people won't see it 
